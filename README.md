@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Laurenande/laurenande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi 👋, i`m Egor
+
+A passionate full-stack web developer.
+
+## Languages and Tools:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurenande)](https://github.com/laurenande/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenande&show_icons=true&theme=transparent)
