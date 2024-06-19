@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, my name is Igor
+### Hi there 👋, my name is Egor
 #### A passionate full-stack iOS developer.
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -23,7 +23,7 @@ Skills: Swift / UIKit
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/laurenande)  
-
+### Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=laurenande)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurenande)](https://github.com/anuraghazra/github-readme-stats)
