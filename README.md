@@ -18,5 +18,5 @@ A passionate full-stack web developer.
 
 ## Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurenande)](https://github.com/laurenande/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenande&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurenande)](https://github.com/laurenande/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenande&hide=issues,prs)
