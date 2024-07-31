@@ -23,7 +23,11 @@ Skills: Swift / UIKit
 - 🔭 I’m currently working on [<span>CollectionHub</span>](https://testflight.apple.com/join/8c9qXW1b). 
 
 ### Languages and Tools:
-[<img src='https://developer.apple.com/swift/images/swift-logo.svg' alt='swift' height='40'>](https://www.swift.org) [<img src='https://cdn1.specialist.ru/Content/Image/News/uikit.jpg' alt='UIKit' height='40' width='40'>](https://developer.apple.com/documentation/uikit)[<img src='https://avatars.githubusercontent.com/u/7774181?s=200&v=4' alt='Alamofire' height='40' >](https://github.com/Alamofire/Alamofire)[<img src='https://habrastorage.org/r/w1560/getpro/habr/post_images/10b/0e6/5ef/10b0e65efd9b395b8e3e3b9f41bdc354.png' alt='CoreData' height='40' >](https://developer.apple.com/documentation/coredata/)
+[<img src='https://developer.apple.com/swift/images/swift-logo.svg' alt='swift' height='40'>](https://www.swift.org) 
+[<img src='https://cdn1.specialist.ru/Content/Image/News/uikit.jpg' alt='UIKit' height='40' width='40'>](https://developer.apple.com/documentation/uikit)
+[<img src='https://avatars.githubusercontent.com/u/7774181?s=200&v=4' alt='Alamofire' height='40' >](https://github.com/Alamofire/Alamofire)
+[<img src='https://habrastorage.org/r/w1560/getpro/habr/post_images/10b/0e6/5ef/10b0e65efd9b395b8e3e3b9f41bdc354.png' alt='CoreData' height='40' >](https://developer.apple.com/documentation/coredata/)
+[<img src='https://raw.githubusercontent.com/CocoaPods/Design/master/assets/logo.png' alt='CocoaPods' height='40' >]([https://cocoapods.org])
 ### Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=laurenande)](https://github.com/ryo-ma/github-profile-trophy)
 
