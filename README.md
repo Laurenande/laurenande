@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+
 <img src='https://camo.githubusercontent.com/899356292ca4eda30ae473812e84056a83ade9d04e836742224853cfbd63c127/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302673656374696f6e3d68656164657226746578743d57686174277325323055703f26616e696d6174696f6e3d7477696e6b6c696e6726666f6e7453697a653d3430'>
 
 ### Hi there 👋, my name is Egor
@@ -33,5 +35,5 @@ Skills: Swift / UIKit
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurenande)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenande&show_icons=true&count_private=true)  
-
+-->
 
